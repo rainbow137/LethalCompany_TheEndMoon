@@ -1,5 +1,7 @@
 # LethalCompany_TheEndMoon
 
+![icon.png]
+
 添加末地作为新的moon！
 
 描述："The End" is a dark dimension resembling outer space, floating within the void.
