@@ -7,6 +7,8 @@
 描述："The End" is a dark dimension resembling outer space, floating within the void.
 High risk, high reward place.
 
+危险等级：S
+
 费用：500
 
 说明：这个星球极其危险，伫立于虚空中的岛屿，翱翔于黑曜石柱间的巨龙虎视眈眈，即使是设施外也不再安全！
