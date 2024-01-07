@@ -1,6 +1,6 @@
 # LethalCompany_TheEndMoon
 
-![icon.png]
+![图片](icon.png)
 
 添加末地作为新的moon！
 
