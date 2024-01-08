@@ -1,10 +1,11 @@
 {
   "name": "TheEndMoon",
-  "version_number": "1.0.0",
+  "version_number": "1.1.0",
   "website_url": "https://github.com/rainbow137/LethalCompany_TheEndMoon",
   "description": "Adds Minecraft The End as a moon!",
   "dependencies": [
     "HolographicWings-LethalExpansion-1.3.5",
-    "BepInEx-BepInExPack-5.4.2100"
+    "BepInEx-BepInExPack-5.4.2100",
+    "rainbow137-MinecraftScraps-1.3.0"
   ]
 }
