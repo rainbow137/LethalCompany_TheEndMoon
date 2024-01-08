@@ -11,6 +11,10 @@ High risk, high reward place.
 
 费用：500
 
+工厂地牢权重：100
+
+旅馆地牢权重：100
+
 说明：这个星球极其危险，伫立于虚空中的岛屿，翱翔于黑曜石柱间的巨龙虎视眈眈，即使是设施外也不再安全！
 
 设施生成：工厂和旅馆的地牢生成概率一致
@@ -22,6 +26,10 @@ High risk, high reward place.
 模型来源：https://sketchfab.com/3d-models/
 
 参考教程：https://github.com/HolographicWings/LethalSDK-Unity-Project/
+
+# 1.1.0
+
+调整了废品生成，现在增加了LethalSDK原本的废品，并且添加了我的“MinecraftScraps”作为前置模组，现在是真正意义上的高风险高回报！
 
 # 1.0.0
 
