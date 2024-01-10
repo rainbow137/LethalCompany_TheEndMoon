@@ -27,6 +27,14 @@ High risk, high reward place.
 
 参考教程：https://github.com/HolographicWings/LethalSDK-Unity-Project/
 
+# 1.2.0
+
+考虑到新版本摔落伤害增加，调整了末地船的位置
+
+修复了末影水晶的旋转动画
+
+后续会解决末影龙的音效
+
 # 1.1.0
 
 调整了废品生成，现在增加了LethalSDK原本的废品，并且添加了我的“MinecraftScraps”作为前置模组，现在是真正意义上的高风险高回报！
