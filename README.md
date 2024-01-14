@@ -27,6 +27,14 @@ High risk, high reward place.
 
 参考教程：https://github.com/HolographicWings/LethalSDK-Unity-Project/
 
+# 1.3.0
+
+为末影龙和末影人增加了音效，或许这听起来更加炫酷OvO
+
+修复了消防门导航到虚空的问题，现在不会出现两个消防门“串门”问题
+
+完全摆脱了LethalExpansion的前置需求，现在只需要LethalExpansionCore作为前置模组即可，这意味着可能与更多模组兼容（例如LethalLevelLoader）
+
 # 1.2.0
 
 考虑到新版本摔落伤害增加，调整了末地船的位置
