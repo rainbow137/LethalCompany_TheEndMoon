@@ -27,6 +27,10 @@ High risk, high reward place.
 
 参考教程：https://github.com/HolographicWings/LethalSDK-Unity-Project/
 
+# 1.3.1
+
+调整了设施内的废品生成，移除了LethalExpansion中出现的废品依赖
+
 # 1.3.0
 
 为末影龙和末影人增加了音效，或许这听起来更加炫酷OvO
